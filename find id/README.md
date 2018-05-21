@@ -12,13 +12,15 @@
 
 
 You can use a async function and fetch like this to load your files.:
-     async function loadSvg() {
+     
 
+            async function loadSvg() {
             // 1. Load svg
             //------------------------------------------------------------	
             let mySvg = await fetch("layers.svg");
             let svg = await mySvg.text();
 
-            document.querySelector("#graphic").innerHTML = svg;      
-        }
+            document.querySelector("#graphic").innerHTML = svg;
+             }
+       
          
