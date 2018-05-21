@@ -11,7 +11,8 @@
 Use the svg objects fill attribute
 the citynames and svg id's corrospond
 you might need to use selectors like:
-  ```
+ 
+ ```
   document.querySelectorAll("#map g[id]");
   
   event.target.parentElement.id;
