@@ -8,8 +8,10 @@
 * Show the citynames with a starting capital letter
 
 ## Hint
-Use the svg objects fill attribute
+Use the svg objects fill attribute.
+
 the citynames and svg id's corrospond
+
 you might need to use selectors like:
  
  ```
