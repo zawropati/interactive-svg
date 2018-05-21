@@ -1,589 +1,589 @@
 [
   {
-    "by":"aabenraa",
-    "beskatningsgrundlag":147.174,
+    "city":"aabenraa",
+    "tax-base":147.174,
     "rank":77,
     "hold":"b"
   },
   {
-    "by":"aalborg",
-    "beskatningsgrundlag":150.225,
+    "city":"aalborg",
+    "tax-base":150.225,
     "rank":63,
     "hold":""
   },
   {
-    "by":"aarhus",
-    "beskatningsgrundlag":158.295,
+    "city":"aarhus",
+    "tax-base":158.295,
     "rank":37,
     "hold":""
   },
   {
-    "by":"aeroe",
-    "beskatningsgrundlag":140.411,
+    "city":"aeroe",
+    "tax-base":140.411,
     "rank":95,
     "hold":"b"
   },
   {
-    "by":"albertslund",
-    "beskatningsgrundlag":159.278,
+    "city":"albertslund",
+    "tax-base":159.278,
     "rank":33,
     "hold":""
   },
   {
-    "by":"alleroed",
-    "beskatningsgrundlag":219.418,
+    "city":"alleroed",
+    "tax-base":219.418,
     "rank":6,
     "hold":"A"
   },
   {
-    "by":"assens",
-    "beskatningsgrundlag":146.233,
+    "city":"assens",
+    "tax-base":146.233,
     "rank":81,
     "hold":"b"
   },
   {
-    "by":"ballerup",
-    "beskatningsgrundlag":181.447,
+    "city":"ballerup",
+    "tax-base":181.447,
     "rank":19,
     "hold":"A"
   },
   {
-    "by":"billund",
-    "beskatningsgrundlag":150.537,
+    "city":"billund",
+    "tax-base":150.537,
     "rank":61,
     "hold":""
   },
   {
-    "by":"bornholms",
-    "beskatningsgrundlag":140.808,
+    "city":"bornholms",
+    "tax-base":140.808,
     "rank":94,
     "hold":"b"
   },
   {
-    "by":"broendby",
-    "beskatningsgrundlag":165.634,
+    "city":"broendcity",
+    "tax-base":165.634,
     "rank":30,
     "hold":""
   },
   {
-    "by":"broenderslev",
-    "beskatningsgrundlag":137.498,
+    "city":"broenderslev",
+    "tax-base":137.498,
     "rank":98,
     "hold":"b"
   },
   {
-    "by":"dragoer",
-    "beskatningsgrundlag":216.349,
+    "city":"dragoer",
+    "tax-base":216.349,
     "rank":7,
     "hold":"A"
   },
   {
-    "by":"egedal",
-    "beskatningsgrundlag":187.476,
+    "city":"egedal",
+    "tax-base":187.476,
     "rank":13,
     "hold":"A"
   },
   {
-    "by":"esbjerg",
-    "beskatningsgrundlag":152.060,
+    "city":"esbjerg",
+    "tax-base":152.060,
     "rank":53,
     "hold":""
   },
   {
-    "by":"faaborg-midtfyn",
-    "beskatningsgrundlag":145.799,
+    "city":"faaborg-midtfyn",
+    "tax-base":145.799,
     "rank":83,
     "hold":"b"
   },
   {
-    "by":"fanoe",
-    "beskatningsgrundlag":187.543,
+    "city":"fanoe",
+    "tax-base":187.543,
     "rank":12,
     "hold":"A"
   },
   {
-    "by":"favrskov",
-    "beskatningsgrundlag":150.145,
+    "city":"favrskov",
+    "tax-base":150.145,
     "rank":65,
     "hold":""
   },
   {
-    "by":"faxe",
-    "beskatningsgrundlag":153.367,
+    "city":"faxe",
+    "tax-base":153.367,
     "rank":52,
     "hold":""
   },
   {
-    "by":"fredensborg",
-    "beskatningsgrundlag":199.056,
+    "city":"fredensborg",
+    "tax-base":199.056,
     "rank":8,
     "hold":"A"
   },
   {
-    "by":"fredericia",
-    "beskatningsgrundlag":157.702,
+    "city":"fredericia",
+    "tax-base":157.702,
     "rank":38,
     "hold":""
   },
   {
-    "by":"frederiksberg",
-    "beskatningsgrundlag":196.991,
+    "city":"frederiksberg",
+    "tax-base":196.991,
     "rank":9,
     "hold":"A"
   },
   {
-    "by":"frederikshavn",
-    "beskatningsgrundlag":149.270,
+    "city":"frederikshavn",
+    "tax-base":149.270,
     "rank":66,
     "hold":""
   },
   {
-    "by":"frederikssund",
-    "beskatningsgrundlag":172.108,
+    "city":"frederikssund",
+    "tax-base":172.108,
     "rank":25,
     "hold":"A"
   },
   {
-    "by":"furesoe",
-    "beskatningsgrundlag":222.107,
+    "city":"furesoe",
+    "tax-base":222.107,
     "rank":5,
     "hold":"A"
   },
   {
-    "by":"gentofte",
-    "beskatningsgrundlag":288.553,
+    "city":"gentofte",
+    "tax-base":288.553,
     "rank":1,
     "hold":"A"
   },
   {
-    "by":"gladsaxe",
-    "beskatningsgrundlag":184.052,
+    "city":"gladsaxe",
+    "tax-base":184.052,
     "rank":16,
     "hold":"A"
   },
   {
-    "by":"glostrup",
-    "beskatningsgrundlag":183.923,
+    "city":"glostrup",
+    "tax-base":183.923,
     "rank":17,
     "hold":"A"
   },
   {
-    "by":"greve",
-    "beskatningsgrundlag":189.287,
+    "city":"greve",
+    "tax-base":189.287,
     "rank":11,
     "hold":"A"
   },
   {
-    "by":"gribskov",
-    "beskatningsgrundlag":181.451,
+    "city":"gribskov",
+    "tax-base":181.451,
     "rank":18,
     "hold":"A"
   },
   {
-    "by":"guldborgsund",
-    "beskatningsgrundlag":146.671,
+    "city":"guldborgsund",
+    "tax-base":146.671,
     "rank":79,
     "hold":"b"
   },
   {
-    "by":"haderslev  ",
-    "beskatningsgrundlag":148.242,
+    "city":"haderslev  ",
+    "tax-base":148.242,
     "rank":71,
     "hold":""
   },
   {
-    "by":"halsnaes  ",
-    "beskatningsgrundlag":156.593,
+    "city":"halsnaes  ",
+    "tax-base":156.593,
     "rank":39,
     "hold":""
   },
   {
-    "by":"hedensted",
-    "beskatningsgrundlag":148.548,
+    "city":"hedensted",
+    "tax-base":148.548,
     "rank":70,
     "hold":""
   },
   {
-    "by":"helsingoer",
-    "beskatningsgrundlag":179.453,
+    "city":"helsingoer",
+    "tax-base":179.453,
     "rank":21,
     "hold":"A"
   },
   {
-    "by":"herlev",
-    "beskatningsgrundlag":179.341,
+    "city":"herlev",
+    "tax-base":179.341,
     "rank":22,
     "hold":"A"
   },
   {
-    "by":"herning",
-    "beskatningsgrundlag":147.411,
+    "city":"herning",
+    "tax-base":147.411,
     "rank":76,
     "hold":"b"
   },
   {
-    "by":"hilleroed  ",
-    "beskatningsgrundlag":184.332,
+    "city":"hilleroed  ",
+    "tax-base":184.332,
     "rank":15,
     "hold":"A"
   },
   {
-    "by":"hjoerring",
-    "beskatningsgrundlag":143.889,
+    "city":"hjoerring",
+    "tax-base":143.889,
     "rank":90,
     "hold":"b"
   },
   {
-    "by":"hoeje-taastrup",
-    "beskatningsgrundlag":167.050,
+    "city":"hoeje-taastrup",
+    "tax-base":167.050,
     "rank":29,
     "hold":""
   },
   {
-    "by":"hoersholm",
-    "beskatningsgrundlag":275.197,
+    "city":"hoersholm",
+    "tax-base":275.197,
     "rank":2,
     "hold":"A"
   },
   {
-    "by":"holbaek",
-    "beskatningsgrundlag":154.980,
+    "city":"holbaek",
+    "tax-base":154.980,
     "rank":48,
     "hold":""
   },
   {
-    "by":"holstebro",
-    "beskatningsgrundlag":148.775,
+    "city":"holstebro",
+    "tax-base":148.775,
     "rank":68,
     "hold":""
   },
   {
-    "by":"horsens",
-    "beskatningsgrundlag":144.419,
+    "city":"horsens",
+    "tax-base":144.419,
     "rank":88,
     "hold":"b"
   },
   {
-    "by":"hvidovre",
-    "beskatningsgrundlag":169.738,
+    "city":"hvidovre",
+    "tax-base":169.738,
     "rank":27,
     "hold":""
   },
   {
-    "by":"ikast-brande",
-    "beskatningsgrundlag":141.556,
+    "city":"ikast-brande",
+    "tax-base":141.556,
     "rank":93,
     "hold":"b"
   },
   {
-    "by":"ishoej",
-    "beskatningsgrundlag":150.294,
+    "city":"ishoej",
+    "tax-base":150.294,
     "rank":62,
     "hold":""
   },
   {
-    "by":"jammerbugt",
-    "beskatningsgrundlag":146.558,
+    "city":"jammerbugt",
+    "tax-base":146.558,
     "rank":80,
     "hold":"b"
   },
   {
-    "by":"kalundborg",
-    "beskatningsgrundlag":154.725,
+    "city":"kalundborg",
+    "tax-base":154.725,
     "rank":49,
     "hold":""
   },
   {
-    "by":"kerteminde",
-    "beskatningsgrundlag":151.673,
+    "city":"kerteminde",
+    "tax-base":151.673,
     "rank":57,
     "hold":""
   },
   {
-    "by":"koebenhavns",
-    "beskatningsgrundlag":167.495,
+    "city":"koebenhavns",
+    "tax-base":167.495,
     "rank":28,
     "hold":""
   },
   {
-    "by":"koege",
-    "beskatningsgrundlag":163.075,
+    "city":"koege",
+    "tax-base":163.075,
     "rank":31,
     "hold":""
   },
   {
-    "by":"kolding",
-    "beskatningsgrundlag":156.067,
+    "city":"kolding",
+    "tax-base":156.067,
     "rank":42,
     "hold":""
   },
   {
-    "by":"laesoe",
-    "beskatningsgrundlag":145.813,
+    "city":"laesoe",
+    "tax-base":145.813,
     "rank":82,
     "hold":"b"
   },
   {
-    "by":"langeland",
-    "beskatningsgrundlag":151.998,
+    "city":"langeland",
+    "tax-base":151.998,
     "rank":55,
     "hold":""
   },
   {
-    "by":"lejre",
-    "beskatningsgrundlag":177.681,
+    "city":"lejre",
+    "tax-base":177.681,
     "rank":23,
     "hold":"A"
   },
   {
-    "by":"lemvig",
-    "beskatningsgrundlag":150.156,
+    "city":"lemvig",
+    "tax-base":150.156,
     "rank":64,
     "hold":""
   },
   {
-    "by":"lolland",
-    "beskatningsgrundlag":147.716,
+    "city":"lolland",
+    "tax-base":147.716,
     "rank":73,
     "hold":""
   },
   {
-    "by":"lyngby-taarbaek",
-    "beskatningsgrundlag":229.623,
+    "city":"lyngcity-taarbaek",
+    "tax-base":229.623,
     "rank":4,
     "hold":"A"
   },
   {
-    "by":"mariagerfjord",
-    "beskatningsgrundlag":144.720,
+    "city":"mariagerfjord",
+    "tax-base":144.720,
     "rank":87,
     "hold":"b"
   },
   {
-    "by":"middelfart",
-    "beskatningsgrundlag":155.848,
+    "city":"middelfart",
+    "tax-base":155.848,
     "rank":43,
     "hold":""
   },
   {
-    "by":"morsoe",
-    "beskatningsgrundlag":141.998,
+    "city":"morsoe",
+    "tax-base":141.998,
     "rank":92,
     "hold":"b"
   },
   {
-    "by":"naestved",
-    "beskatningsgrundlag":153.719,
+    "city":"naestved",
+    "tax-base":153.719,
     "rank":50,
     "hold":""
   },
   {
-    "by":"norddjurs",
-    "beskatningsgrundlag":144.037,
+    "city":"norddjurs",
+    "tax-base":144.037,
     "rank":89,
     "hold":"b"
   },
   {
-    "by":"nordfyns",
-    "beskatningsgrundlag":145.250,
+    "city":"nordfyns",
+    "tax-base":145.250,
     "rank":85,
     "hold":"b"
   },
   {
-    "by":"nyborg",
-    "beskatningsgrundlag":151.316,
+    "city":"nyborg",
+    "tax-base":151.316,
     "rank":58,
     "hold":""
   },
   {
-    "by":"odder",
-    "beskatningsgrundlag":159.185,
+    "city":"odder",
+    "tax-base":159.185,
     "rank":34,
     "hold":""
   },
   {
-    "by":"odense",
-    "beskatningsgrundlag":148.591,
+    "city":"odense",
+    "tax-base":148.591,
     "rank":69,
     "hold":""
   },
   {
-    "by":"odsherred",
-    "beskatningsgrundlag":158.307,
+    "city":"odsherred",
+    "tax-base":158.307,
     "rank":36,
     "hold":""
   },
   {
-    "by":"randers",
-    "beskatningsgrundlag":144.835,
+    "city":"randers",
+    "tax-base":144.835,
     "rank":86,
     "hold":"b"
   },
   {
-    "by":"rebild",
-    "beskatningsgrundlag":147.484,
+    "city":"rebild",
+    "tax-base":147.484,
     "rank":75,
     "hold":"b"
   },
   {
-    "by":"ringkoebing-skjern",
-    "beskatningsgrundlag":155.007,
+    "city":"ringkoebing-skjern",
+    "tax-base":155.007,
     "rank":47,
     "hold":""
   },
   {
-    "by":"ringsted",
-    "beskatningsgrundlag":155.189,
+    "city":"ringsted",
+    "tax-base":155.189,
     "rank":46,
     "hold":""
   },
   {
-    "by":"roedovre",
-    "beskatningsgrundlag":171.862,
+    "city":"roedovre",
+    "tax-base":171.862,
     "rank":26,
     "hold":""
   },
   {
-    "by":"roskilde",
-    "beskatningsgrundlag":185.364,
+    "city":"roskilde",
+    "tax-base":185.364,
     "rank":14,
     "hold":"A"
   },
   {
-    "by":"rudersdal",
-    "beskatningsgrundlag":266.115,
+    "city":"rudersdal",
+    "tax-base":266.115,
     "rank":3,
     "hold":"A"
   },
   {
-    "by":"samsoe",
-    "beskatningsgrundlag":156.221,
+    "city":"samsoe",
+    "tax-base":156.221,
     "rank":41,
     "hold":""
   },
   {
-    "by":"silkeborg",
-    "beskatningsgrundlag":155.771,
+    "city":"silkeborg",
+    "tax-base":155.771,
     "rank":44,
     "hold":""
   },
   {
-    "by":"skanderborg",
-    "beskatningsgrundlag":158.979,
+    "city":"skanderborg",
+    "tax-base":158.979,
     "rank":35,
     "hold":""
   },
   {
-    "by":"skive",
-    "beskatningsgrundlag":147.636,
+    "city":"skive",
+    "tax-base":147.636,
     "rank":74,
     "hold":"b"
   },
   {
-    "by":"slagelse",
-    "beskatningsgrundlag":150.693,
+    "city":"slagelse",
+    "tax-base":150.693,
     "rank":60,
     "hold":""
   },
   {
-    "by":"soenderborg",
-    "beskatningsgrundlag":151.903,
+    "city":"soenderborg",
+    "tax-base":151.903,
     "rank":56,
     "hold":""
   },
   {
-    "by":"solroed",
-    "beskatningsgrundlag":195.700,
+    "city":"solroed",
+    "tax-base":195.700,
     "rank":10,
     "hold":"A"
   },
   {
-    "by":"soroe",
-    "beskatningsgrundlag":155.203,
+    "city":"soroe",
+    "tax-base":155.203,
     "rank":45,
     "hold":""
   },
   {
-    "by":"stevns",
-    "beskatningsgrundlag":162.102,
+    "city":"stevns",
+    "tax-base":162.102,
     "rank":32,
     "hold":""
   },
   {
-    "by":"struer",
-    "beskatningsgrundlag":148.796,
+    "city":"struer",
+    "tax-base":148.796,
     "rank":67,
     "hold":""
   },
   {
-    "by":"svendborg",
-    "beskatningsgrundlag":146.774,
+    "city":"svendborg",
+    "tax-base":146.774,
     "rank":78,
     "hold":"b"
   },
   {
-    "by":"syddjurs",
-    "beskatningsgrundlag":152.001,
+    "city":"syddjurs",
+    "tax-base":152.001,
     "rank":54,
     "hold":""
   },
   {
-    "by":"taarnby",
-    "beskatningsgrundlag":176.399,
+    "city":"taarncity",
+    "tax-base":176.399,
     "rank":24,
     "hold":"A"
   },
   {
-    "by":"thisted",
-    "beskatningsgrundlag":142.415,
+    "city":"thisted",
+    "tax-base":142.415,
     "rank":91,
     "hold":"b"
   },
   {
-    "by":"toender",
-    "beskatningsgrundlag":145.372,
+    "city":"toender",
+    "tax-base":145.372,
     "rank":84,
     "hold":"b"
   },
   {
-    "by":"vallensbaek",
-    "beskatningsgrundlag":180.587,
+    "city":"vallensbaek",
+    "tax-base":180.587,
     "rank":20,
     "hold":"A"
   },
   {
-    "by":"varde",
-    "beskatningsgrundlag":153.603,
+    "city":"varde",
+    "tax-base":153.603,
     "rank":51,
     "hold":""
   },
   {
-    "by":"vejen",
-    "beskatningsgrundlag":137.575,
+    "city":"vejen",
+    "tax-base":137.575,
     "rank":96,
     "hold":"b"
   },
   {
-    "by":"vejle",
-    "beskatningsgrundlag":156.418,
+    "city":"vejle",
+    "tax-base":156.418,
     "rank":40,
     "hold":""
   },
   {
-    "by":"vesthimmerlands",
-    "beskatningsgrundlag":137.550,
+    "city":"vesthimmerlands",
+    "tax-base":137.550,
     "rank":97,
     "hold":"b"
   },
   {
-    "by":"viborg",
-    "beskatningsgrundlag":151.275,
+    "city":"viborg",
+    "tax-base":151.275,
     "rank":59,
     "hold":""
   },
   {
-    "by":"vordingborg",
-    "beskatningsgrundlag":148.136,
+    "city":"vordingborg",
+    "tax-base":148.136,
     "rank":72,
     "hold":""
   }
