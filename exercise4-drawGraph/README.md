@@ -8,10 +8,6 @@
 * animate the graph using stroke-dasharray and stroke-dashoffset
 
 
-###  c:Update data with json
-* make a json file to hold the values for the graph
-* load the json file and insert the values
-
 
 ## Hint
 use the links in todays and yesterdays slides for info and inspiration

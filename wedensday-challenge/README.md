@@ -1,9 +1,8 @@
-# Exercise 2#
-###  Manipulating a SVG
+# Challenge#
+###  DRAW A DYNAMIC GRAPH
 * Make a new html document
-* load pie.svg into the DOM
-* find the id's and change color on the pieslices on mouseover
-* change the color back on mouseout
+* load the data from persons.json and draw a graph over the persons age
+* animate the drawing of the graph
 
 ## Hint
-Use the svg objects fill attribute
+USE YOUR KNOWLEDGE FROM EXERCISE 3 AND 4
