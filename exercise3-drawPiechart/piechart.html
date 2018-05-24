@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <Style>
+        #circle{
+            width: 50%;
+        }
+    #c1{
+        width: 50%;
+        fill:none;
+        stroke: pink;
+        stroke-width:   100;
+        stroke-dasharray: 50 314;
+    }
+    #c2{
+        fill:none;
+        stroke: purple;
+        stroke-width:   100;
+        stroke-dasharray: 80 314;
+        stroke-dashoffset: -50;
+    }
+    #c3{
+        fill:none;
+        stroke:orchid;
+        stroke-width:   100;
+        stroke-dasharray: 60 314;
+        stroke-dashoffset: 100;
+    }
+    #c4{
+        fill:none;
+        stroke:salmon;
+        stroke-width:   100;
+        stroke-dasharray: 160 314;
+        stroke-dashoffset: -100;
+    }
+    #c5{
+        fill:none;
+        stroke:royalblue;
+        stroke-width:   100;
+        stroke-dasharray: 30 314;
+        stroke-dashoffset: -250;
+    }
+    svg{
+        background-color:palegoldenrod;
+        transform: rotate(-90deg);
+        border-radius: 50%;
+            }
+    .circle {
+        transition: all 2s;
+    }
+    </Style>
+</head>
+<body>
+        <div id="circle">
+          <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <circle class="circle"   id="c1" cx="50" cy="50" r="50"/>
+            <circle class="circle" id="c2" cx="50" cy="50" r="50"/>
+            <circle class="circle" id="c3" cx="50" cy="50" r="50"/>
+            <circle class="circle" id="c4" cx="50" cy="50" r="50"/>
+            <circle class="circle" id="c5" cx="50" cy="50" r="50"/>
+        </svg>
+        </div>
+</body>
+<script>
+ //let myArray;
+
+//myArray[0] = document.getElementsByClassName('.circle');
+
+let circles = Array.from(document.querySelectorAll(".circle"));
+
+
+ function log () {
+
+    
+    circles.forEach(function (elem) {
+        console.log(elem);
+});
+}
+//document.querySelector("svg").addEventListener("mouseover", myFunction);
+ 
+/*
+function  log() {
+    for (className of circles) {
+    console.log(val);}
+}*/
+
+document.querySelector("svg").addEventListener("mouseover",run);
+
+
+
+function run(e){
+    e.target.style.strokeDashoffset= -50
+    /*circles.forEach(function(circle){
+        circle.style.strokeDashoffset=10
+    });*/
+}
+    //document.querySelector("svg").addEventListener("mouseover", animate);
+
+    //animate();
+</script>
+</html>
