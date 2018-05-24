@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #pop-up{
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 1.5em;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="pop-up"></div>
+    <div id="graphic"></div>
+
+</body>
+
+<script>
+    let myJSON;
+    document.addEventListener("DOMContentLoaded", loadSvg);
+
+    async function loadSvg(){
+
+        let svgData = await fetch("layers.svg");
+        let mySvg = await svgData.text();
+
+        let jsonData = await fetch("data.json");
+        myJSON = await jsonData.json();
+
+        console.log(myJSON);
+
+        document.querySelector("#graphic").innerHTML = mySvg;
+        
+    }
+
+    document.querySelector("#graphic").addEventListener('mouseover', showText)
+
+    function showText(){
+        console.log(event.target.id);
+        let id = event.target.id;
+
+        myJSON.forEach(element => {
+            if(id == element.id){
+                console.log(element.text);
+            document.querySelector("#pop-up").innerHTML = element.text;
+            }
+            
+        });
+
+
+    }
+</script>
+</html>

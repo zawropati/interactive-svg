@@ -1,0 +1,21 @@
+[
+    {
+      "id": "bike",
+      "text": "Ride my bike and explore Copenhagen !"
+    },
+
+
+    {
+      "id": "mac",
+      "text": "This is my mac, look inside and see magic of frontend code."
+    },
+
+
+
+    {
+      "id": "phone",
+      "text": "This is my phone, do I need to charge it already ?"
+    }
+
+    
+]
